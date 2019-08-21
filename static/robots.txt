@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /user/ # личный кабинет
+Disallow: /user/history/ # история покупок
+Disallow: /checkout/ # оформление заказа
